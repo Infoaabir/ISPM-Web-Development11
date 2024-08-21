@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 580 310" style="enable-background:new 0 0 580 310;" xml:space="preserve">
+<style type="text/css">
+	.heart,.red_dot{animation-iteration-count:100;animation-fill-mode:forwards}.heart,.messege_box,.red_dot{animation-fill-mode:forwards}.mb0{fill:#6B94CD}.mb1{fill:none;stroke:#1C3E58;stroke-width:1.02;stroke-miterlimit:10}.mb2{fill:#FFF}.mb3{fill:#E8512E}.red_dot{opacity:0;animation-name:blink;animation-duration:2s;animation-delay:0s}.heart{animation-name:pulse;animation-duration:8s;animation-delay:1s}.messege_box{animation-iteration-count:1;animation-name:drop;animation-duration:1.75s;animation-delay:0s}@keyframes blink{0%,30%{opacity:0}100%{opacity:1}}<!-- @keyframes pulse{from{transform:translateY(-6em);opacity:0}to{transform:translateY(0);opacity:1}}--> @keyframes drop{0%{opacity:0}20%{transform:translateY(-300px);opacity:0}40%{opacity:1;transform:translateY(20px)}60%{transform:translateY(-6px)}100%,90%{transform:translateY(0)}}@keyframes pulse{0%,100%,60%{opacity:0}30%{opacity:1}}
+	
+</style>
+	
+	
+		
+	
+<g class="messege_box">
+	
+<path class="mb0" d="M392.3,93.7v23c0,4.3-3.5,7.8-7.8,7.8h-68.9l-9.4,9.5l-6.3-9.5h-17.3c-4.7,0-8.5-3.8-8.5-8.5V92.1
+	c0-3.2,2.6-5.7,5.7-5.7H385C389,86.3,392.3,89.6,392.3,93.7"/>
+	
+<polygon class="mb1" points="339.7,92.7 339.7,111.6 324.1,111.6 320.7,115.1 320.7,111.6 318.5,111.6 318.5,92.7 "/>
+<path class="mb2" d="M286.5,98.2c0-1.3,0.5-2.5,1.6-3.5c1.7-1.6,4.2-1.4,5.7,0.5c0.9,1.1,1.2,2.3,1.1,3.6c-0.1,1.4-0.7,2.5-1.8,3.4
+	c-1.7,1.4-4.1,1.1-5.5-0.7C286.9,100.6,286.5,99.5,286.5,98.2"/>
+	
+<path class="mb2" d="M286.3,113.3c-1,0-2.1,0-3.1,0c-0.4,0-0.6-0.2-0.5-0.6c0.2-1.3,0.5-2.6,1-3.9c0.2-0.4,0.4-0.9,0.6-1.3
+	c0.3-0.5,0.7-0.9,1.2-1.2c1-0.6,2.1-0.9,3.1-1.1c0.2,0,0.3,0,0.4,0.1c0.5,0.5,0.9,0.9,1.4,1.4c0.1,0.1,0.2,0.3,0.2,0.5
+	c-0.1,1.2-0.2,2.5-0.3,3.7c-0.1,0.7-0.1,1.3-0.2,2c0,0.4-0.1,0.5-0.5,0.5C288.4,113.3,287.3,113.3,286.3,113.3"/>
+
+	
+<path class="mb2" d="M293.9,113.3c-0.3,0-0.6,0-0.9,0c-0.3,0-0.4-0.1-0.5-0.4c-0.1-0.8-0.1-1.6-0.2-2.4c-0.1-1-0.2-1.9-0.3-2.9
+	c-0.1-0.9-0.2-0.7,0.4-1.3c0.3-0.3,0.7-0.7,1-1c0.1-0.1,0.3-0.2,0.5-0.1c0.3,0.1,0.7,0.2,1,0.3c0.1,0,0.2,0.1,0.2,0.1
+	c0,0.1,0,0.2-0.1,0.2c-0.8,0.8-1.3,1.7-1.5,2.8c-0.3,1.7,0.2,3.1,1.3,4.3c0,0,0.1,0,0.1,0.1c0,0.1,0.1,0.1,0.1,0.2
+	c0,0.1-0.1,0.1-0.2,0.1C294.5,113.3,294.2,113.3,293.9,113.3"/>
+<path class="mb2" d="M366.4,90.9h0.6c1,0.3,1.7,0.8,1.9,1.8c0.1,0.7,0.2,1.4,0.1,2.1c-0.2,0.8-0.6,1.6-0.9,2.4
+	c-0.2,0.6-0.4,1.2-0.5,1.8c-0.1,0.3,0.1,0.4,0.4,0.4c1.4,0,2.8,0,4.2,0c1.2,0,2,0.6,2.4,1.6c0.1,0.1,0.1,0.3,0.2,0.4v0.4
+	c-0.2,0.2-0.3,0.5-0.5,0.7c-0.2,0.3-0.3,0.6-0.1,0.9c0.2,0.3,0.4,0.7,0.6,1v0.3c-0.1,0.1-0.2,0.3-0.3,0.4c-0.7,0.6-0.7,1.2-0.3,1.9
+	c0.3,0.5,0.1,0.9-0.2,1.3c-0.1,0.1-0.3,0.3-0.4,0.4c-0.3,0.3-0.5,0.6-0.4,1c0.1,0.6-0.2,1.1-0.6,1.5c-0.6,0.6-1.3,1-2.2,1
+	c-0.2,0-0.3,0.1-0.5,0.1h-2.7c-0.2,0-0.5-0.1-0.7-0.1c-0.8-0.1-1.5-0.1-2.3-0.2c-1.4-0.2-2.7-0.5-4.1-0.7c-0.4-0.1-0.5-0.2-0.5-0.6
+	c0-2.6,0-5.1,0-7.7v-0.5c0.9,0.1,1.5-0.4,1.8-1.1c0.6-1,1.2-2.1,1.7-3.2c0.3-0.7,0.7-1.3,1.3-1.7c0.7-0.5,1.2-1.2,1.4-2.1
+	c0.2-0.9,0.3-1.9,0.5-2.8C366.2,91.3,366.3,91.1,366.4,90.9"/>
+	
+<path class="mb2" d="M354.4,102.6c0.2-0.5,0.5-0.7,1.1-0.7c0.7,0,1.4,0,2.1,0c0.8,0,1.1,0.3,1.1,1.1c0,2.4,0,4.8,0,7.1
+	c0,0.2,0,0.5,0,0.7c0,0.6-0.4,0.9-0.9,0.9c-0.8,0-1.5,0-2.3,0c-0.5,0-0.9-0.2-1.1-0.7V102.6z"/>
+	
+<path class="mb1" d="M322.7,98.6h12.7 M322.7,101h12.7 M322.7,104.3h12.7"/>
+
+	
+	<!--red_dot-->
+	
+<path class="mb3 red_dot" d="M306.4,110.3c0,3.2-2.6,5.8-5.7,5.7c-3.2,0-5.8-2.6-5.8-5.8c0-3.2,2.5-5.7,5.7-5.7
+	C303.8,104.5,306.4,107.1,306.4,110.3"/>
+	
+	<!--heart-->
+	
+<path class="mb3 heart" d="M369.7,83.1V82c0.2-0.5,0.3-1.1,0.5-1.6c0.9-1.6,2.7-2.6,4.4-2.3c0.9,0.2,1.6,0.7,2.2,1.3
+	c0.6,0.7,1.2,1.4,1.7,2.1c0.3-0.4,0.5-0.8,0.8-1.1c0.3-0.4,0.6-0.7,1-1.1c0.6-0.6,1.3-1.1,2.2-1.2c1.9-0.3,4,1,4.6,2.9
+	c0.1,0.3,0.2,0.6,0.2,0.9v1.1c0,0.2-0.1,0.3-0.1,0.5c-0.3,1.5-1.1,2.8-2.2,3.9c-1.5,1.6-3.1,2.9-4.8,4.2c-0.6,0.4-1.1,0.9-1.7,1.3
+	c-0.6-0.5-1.2-1-1.8-1.5c-1.5-1.3-3.1-2.6-4.6-4c-0.8-0.7-1.5-1.5-1.9-2.5C370,84.4,369.9,83.8,369.7,83.1"/>
+	
+	
+	
+</g>	
+	
+	
+	
+	
+<style type="text/css">
+	.gl0{fill:#274677}.gl1{fill:#E84F2A}.gl2{fill:#EBDCBE}.gl3{fill:#EBECF1}.gl4{fill:#E2E0D0}.gl5{fill:#5395D0}.gl6{fill:#FDFDFF}.gl7{fill:#1C3E58}.gl8{fill:#234356}.gl9{fill:#EBDCCA}.tv{animation:tv 10s ease-in-out infinite;transform-origin:240px 170px}@keyframes tv{0%,10%,100%,90%{transform:rotateZ(0)}30%,80%{transform:rotateZ(4deg)}}.girl_head{animation:girl_head 8s ease-in-out infinite;transform-origin:252px 155px}@keyframes girl_head{0%,100%{transform:rotateZ(0)}10%,90%{transform:rotateZ(6deg)}}.tvgirl{transform:translateY(300px);animation-fill-mode:forwards;animation-iteration-count:1;animation-name:tvgirl;animation-duration:1.75s;animation-delay:1.25s}@keyframes tvgirl{0%{opacity:0;transform:translateY(300px)}20%{transform:translateY(300px);opacity:0}40%{opacity:1;transform:translateY(-20px)}60%{transform:translateY(6px)}100%,90%{transform:translateY(0)}}
+	
+</style>
+		
+	<g class="tvgirl">
+		
+<path class="gl0" d="M266.1,274.9l2.2,5.1h1.2l-0.7-2.9c0,0,10.9-1,11.2-3.9c0.2-2.9-5.8-2.5-11.9-1L266.1,274.9z"/>
+	
+	<g class="girl_head">
+<path class="gl1" d="M258.9,144.4c-4.7,6.6-2.4,9.9-3.9,11.5c-0.4,0.4-1,0.6-1.9,0.8c-0.5,0.1-1.2,0.2-2,0.3c-1.6,0.1-3.1,0-4.4-0.3
+	c-5.2-1.1-7.4-5-2.7-6.9c5.8-2.3,5.5-2.6,5.8-9.4c0.3-6.8,7.5-5.8,7.5-5.8s2,0.2,3.2,1.5c0.3,0.4,0.6,0.8,0.7,1.3
+	C261.6,138.9,261.2,141.1,258.9,144.4"/>
+<path class="gl2" d="M263,143.8c-0.5,5.1-0.1,6.2-0.1,6.2l-1.7,0.1c0,0,1.3,4.3-1.3,4.3c-0.6,0-1,0.2-1.4,0.6
+	c-0.1,0-0.1,0.1-0.2,0.2c-0.1,0.1-0.2,0.2-0.3,0.3c-0.1,0.1-0.1,0.2-0.2,0.2c-0.1,0.1-0.1,0.2-0.2,0.3c0,0,0,0.1-0.1,0.1
+	c-0.8,1.4-1,3.1-1,3.1l-3.5-2.4c0.9-0.2,1.5-0.5,1.9-0.8c1.6-1.6-0.8-4.9,3.9-11.5c2.3-3.3,2.8-5.5,2.3-6.9c0.2,0.1,0.8,0.6,1.2,1.6
+	C262.9,140.1,263.2,141.6,263,143.8"/>
+<path class="gl1" d="M262.1,156.9c-0.3,0-0.6,0-0.9,0c-1.8,0-3-0.4-3.7-0.9c0,0,0-0.1,0.1-0.1c0.1-0.1,0.1-0.2,0.2-0.3
+	c0.1-0.1,0.1-0.2,0.2-0.2c0.1-0.1,0.2-0.2,0.3-0.3c0.1-0.1,0.1-0.1,0.2-0.2c0.4-0.3,0.9-0.6,1.4-0.6c2.7,0,1.3-4.3,1.3-4.3l1.7-0.1
+	c0,0-0.3-1.1,0.1-6.2c0.2-2.3-0.1-3.8-0.5-4.8c0.7,0.5,1.7,1.7,1.9,4.5C264.6,148.1,266.9,156.7,262.1,156.9"/>
+	
+	</g>
+	
+	
+	
+	
+	
+	
+	<path class="gl4" d="M263.7,176.1l-1.9-1.7l0.5,31.1l-21.1-0.7l2.7-36.2l-3.6-2.2c1.2-7.6,4.6-9.3,6.5-9.6c1.3,0.3,2.8,0.4,4.4,0.3
+	c0.8-0.1,1.4-0.2,2-0.3l3.5,2.4c0,0,0.2-1.7,1-3.1c0.7,0.4,1.9,0.9,3.7,0.9c0.3,0.2,0.6,0.4,0.8,0.7c2.2,3.3,3.2,11.4,3.2,11.4
+	L263.7,176.1z"/>
+	
+	
+	<path class="gl0" d="M264.7,214v21c0,0-2.9-7.1-8.4-3.6c-5.5,3.6-17.1,9.4-19.4-0.3l4-24.9l1.1-8.2l23,9L264.7,214z"/>	
+	
+	
+	<g class="tv">
+		
+<path class="gl3" d="M219,157.6l72.3,24.5c1.2,0.4,1.9,1.8,1.5,3l-9.8,31.7c-0.4,1.4-2,2.2-3.4,1.8l-69.9-22c-2-0.6-3.1-2.7-2.5-4.7
+	l9.4-33C216.9,157.9,218,157.3,219,157.6"/>
+<polygon class="gl5" points="225.7,163 287.1,183.1 277.1,215.4 215.5,196.6 "/>
+<path class="gl6" d="M261.8,189.7c0,3.5-2.8,6.3-6.3,6.3c-3.5,0-6.3-2.8-6.3-6.3c0-3.5,2.8-6.3,6.3-6.3
+	C259,183.4,261.8,186.2,261.8,189.7"/>
+<polygon class="gl7" points="252.8,189.7 256.4,191.6 256.4,186.5 "/>
+	
+<path class="gl2" d="M243.8,168.6L239,181v22.6c0,0,2.6,1.5,1.9,2.7c-0.6,1.1-2.4-0.2-2.4-0.2s3.7,5.2-0.2,6
+	c-3.9,0.8-2.9-7.4-1.8-10l-1.5-23l5.1-12.6L243.8,168.6z"/>
+		
+	
+</g>	
+	
+
+<path class="gl9" d="M245.3,236.3l-13.6,33c0,0,1.5,7.8-1.9,7.8c-3.4,0-0.7-10.7-0.7-10.7l8.7-33.5L245.3,236.3z"/>
+<path class="gl9" d="M258.1,229.3c0,0-1.5,10.9,1,18.7c2.4,7.8,7,26.9,7,26.9l1.9-2.7l-3.4-39.6L258.1,229.3z"/>
+<path class="gl9" d="M266.1,274.9c0,0,10.4-1,9.2-2.7c-1.2-1.7-7.3,0-7.3,0L266.1,274.9z"/>
+<path class="gl0" d="M231.7,269.3c0,0,2.5,8.5-0.5,9.7c-3,1.2-4.5-3.4-3-9.7H231.7z"/>
+<path class="gl9" d="M228.4,269.1c0,0-0.9,6.7,1.5,6.7c2.4,0,1.8-6.7,1.8-6.7L228.4,269.1z"/>
+
+	</g>	
+
+		
+		
+	
+
+	
+	
+	
+	
+	<style type="text/css">
+	.mn0{fill:#1C3E58}.mn1{fill:#1C4363}.mn2{fill:#E6401B}.mn3{fill:#9AB6DF}.mn4{fill:#DCE1F0}.mn5{fill:#BCC6E3}.mn6{fill:#EBDCBE}.mn7{fill:#234667}<!-- .left_arm{transform-origin:30% 25%;animation:typeLeft .2s linear infinite}-->.man{transform:translateY(300px);animation-fill-mode:forwards;animation-iteration-count:1;animation-name:drop_man;animation-duration:1.75s;animation-delay:1s}@keyframes arm{0%,10%,100%{transform:rotateZ(-3deg)}20%{transform:rotateZ(0)}80%,90%{transform:rotateZ(5deg)}}.left_arm{animation:arm 9s infinite;transform-origin:337px 153px}@keyframes drop_man{0%{opacity:0;transform:translateY(300px)}20%{transform:translateY(300px);opacity:0}40%{opacity:1;transform:translateY(-20px)}60%{transform:translateY(6px)}100%,90%{transform:translateY(0)}}.wrist{animation:left_wrist 12s ease-in-out infinite;transform-origin:320px 170px}@keyframes left_wrist{0%,100%,20%{transform:rotateZ(0)}25%,80%{transform:rotateZ(8deg)}}
+	
+</style>
+	
+	
+<g class="man">
+	
+	<path class="mn0" d="M309.3,186.5c0,0,5.2,61.5,9.7,82.5l6.5,1l1.6-77L309.3,186.5z"/>
+<polygon class="mn1" points="342.3,271.2 350.1,271.2 330.4,193.3 309.3,186.5 "/>
+<path class="mn2" d="M325.5,269.9v4.4h-14.2c0,0-1-1.5,8.3-3.9L325.5,269.9z"/>
+<rect x="311.3" y="274.4" class="mn3" width="14.2" height="2.4"/>
+<path class="mn2" d="M342.5,273.9c0.1,0.3,0.2,0.7,0.4,1c0.4,0.6,1.1,0.8,1.8,1c1.5,0.4,3,0.8,4.4,1.2c1.7,0.5,3.5,0.9,5.2,0.5
+	c0.6-0.2,1.3-0.5,1.5-1.1c0.2-0.7-0.3-1.4-0.9-1.7c-0.6-0.4-1.3-0.5-1.9-0.7c-1.3-0.4-2.5-1.4-2.5-2.7c0,0-5.3,0-5.8,0
+	C342.3,271.4,342,271.7,342.5,273.9"/>
+<path class="mn4" d="M309.3,186.5c0,0,6.1-22.8,17.6-35.6c0,0,5,5.8,8.9-2.9c0,0,5.8,2.4,0,22.2c-5.8,19.7-5.5,23.1-5.5,23.1
+	L309.3,186.5z"/>
+	
+	
+	
+<g class="left_arm">
+<path class="mn5" d="M331.2,176.6c0,0,2.4-29.6,7.4-27.2c5,2.4-1,38.5-5.3,39.1c-4.4,0.6-13.9-15.2-13.9-15.2l1.5-3.6L331.2,176.6z"/>
+<path class="mn6 wrist" d="M320.8,169.8c0,0-2.8-3.2-5.5-3.3c-2.8-0.1-3.3-1.7-3.6-0.6c-0.3,1.1,2.7,1.9,2.7,1.9s-3.2,1.3-5.3,0
+	c-2.1-1.3-3,4,2.9,4.7c5.9,0.7,7.4,0.8,7.4,0.8L320.8,169.8z"/>
+</g>	
+	
+	
+<polygon class="mn5" points="319.9,161.1 316.6,157.9 312.7,161.1 317.1,166.9 "/>
+<path class="mn6" d="M316.6,157.9c0,0,0-8.7-2.4-9.9c-2.4-1.2-2.4,2.5-2.4,3.2c0,0.6,0.4,5.9,0.4,5.9s-1.1-1.9-1.9-1.5
+	c-0.7,0.5,2.4,5.5,2.4,5.5L316.6,157.9z"/>
+	
+	
+	
+	
+<path class="mn6" d="M335.9,148l-3-2.4c0,0,2.4-9,0.2-11.4c-2.2-2.4-8.9-2.8-9.9,3c-1,5.8-2.1,7.1-2.1,7.1l1.5,1
+	c0,0-2.6,4.5,4.2,3.7l0.2,1.9C327,150.9,331.5,157,335.9,148"/>
+<path class="mn7" d="M320.3,131.1c0,0-3.7,4.4,9.2,3.1l0.6,4.4l0.8-0.6c0,0-0.3-2.4,1-1.6c1.3,0.8,1,4.7-0.3,6l1.9,1.1
+	c0,0,4.7-12.6,0.3-12.1c0,0-0.2-1.6-5-0.8C324.1,131.3,322.9,131.8,320.3,131.1"/>
+	
+	</g>
+	
+	
+	
+	
+	
+	<style type="text/css">
+	.balloon,.baloon_drop{animation-fill-mode:forwards}.bl0{fill:#F3AC00}.bl1{fill:none;stroke:#FFF;stroke-width:1.44;stroke-miterlimit:10}.balloon{animation-duration:6s;animation-name:anim-balloon;animation-iteration-count:infinite;animation-direction:alternate;animation-timing-function:linear;transform:translateY(0)}@keyframes anim-balloon{to{transform:translateY(12px)}}.baloon_drop{animation-iteration-count:1;animation-name:drop_balloon;animation-duration:2s;animation-delay:0s}@keyframes drop_balloon{0%{opacity:0}20%{transform:translateY(-300px);opacity:0}40%{opacity:1;transform:translateY(40px)}60%{transform:translateY(-10px)}100%,90%{transform:translateY(0)}}
+</style>
+
+	<g class="baloon_drop">
+	<g class="balloon">
+<path class="bl0" d="M229.6,112.4v15.2c0,2.6-2.1,4.7-4.7,4.7h-0.4v7l-5.8-7h-13.3c-2.6,0-4.7-2.1-4.7-4.7v-15.2
+	c0-2.6,2.1-4.7,4.7-4.7H225C227.5,107.7,229.6,109.8,229.6,112.4"/>
+<path class="bl1" d="M212.2,121.1l2.8,1.6 M212.6,116.5l2.2-1.5 M218.3,127.5c-2,0.2-3.8-1.3-3.9-3.3c-0.2-2,1.3-3.7,3.3-3.9
+	c2-0.2,3.8,1.3,3.9,3.3C221.8,125.6,220.3,127.3,218.3,127.5z M218.3,117c-2,0.2-3.8-1.3-3.9-3.3c-0.2-2,1.3-3.7,3.3-3.9
+	c2-0.2,3.8,1.3,3.9,3.3C221.8,115.1,220.3,116.9,218.3,117z M213,118.9c0,2-1.6,3.6-3.6,3.6c-2,0-3.6-1.6-3.6-3.6s1.6-3.6,3.6-3.6
+	C211.4,115.3,213,116.9,213,118.9z"/>
+	
+	</g>
+		</g>
+	
+	
+	
+
+<style type="text/css">
+	.pi_large,.pi_medium,.pi_small{animation-fill-mode:forwards;animation-iteration-count:1;animation-delay:0s}.pi0{fill:#4CBCC7}.pi1{fill:#74C5C7}.pi2{fill:#1D3F58}.pi3{fill:#1C4464}.pi4{fill:#EBECF0}.pi5{fill:#C6D4E5}.pi_large{animation-name:pie1;animation-duration:1.25s}@keyframes pie1{0%{opacity:0}20%{transform:translateY(-300px);opacity:0}40%{opacity:1;transform:translateY(40px)}60%{transform:translateY(-10px)}100%,90%{transform:translateY(0)}}.pi_medium{animation-name:pie2;animation-duration:1.5s}@keyframes pie2{0%{opacity:0}20%{transform:translateY(300px);opacity:0}40%{opacity:1;transform:translateY(-40px)}60%{transform:translateY(10px)}100%,90%{transform:translateY(0)}}.pi_small{animation-name:pie3;animation-duration:2.5s}@keyframes pie3{0%{opacity:0}20%{transform:translateX(300px);opacity:0}40%{opacity:1;transform:translateX(-40px)}60%{transform:translateX(10px)}100%,90%{transform:translateX(0)}}
+	
+	
+</style>
+	
+	<g class="pi_large">
+<path class="pi0" d="M447.5,278.9c-3.1,0.7-6.4,1.2-9.8,1.2c-31.4,0.8-68.7-24.4-66.1-66.3c3.3-52.3,46.6-59.5,46.6-59.5
+	s-37.6,10.7-40.8,61.2c-2.5,40.5,33.5,64.8,63.8,64.1C443.4,279.4,445.4,279.2,447.5,278.9"/>
+<path class="pi1" d="M484.6,255.4c0,0-13.9,19.7-37,23.4c0,0-0.1,0-0.1,0c-2,0.3-4.1,0.5-6.3,0.6c-30.3,0.7-66.4-23.6-63.8-64.1
+	c3.1-50.5,40.8-61.2,40.8-61.2l17.7,60.9L484.6,255.4z"/>
+	</g>
+	
+	
+		<g class="pi_medium">
+<path class="pi2" d="M509.8,206.4c0,0.1,0,0.2,0,0.2l-64.1-1.9l-16.8-59.2c0,0,10.8-2.5,24.2-2.1h0.1c14.1,0.4,31.1,4.1,41.1,17.4
+	C512.6,185.1,510.2,204.4,509.8,206.4"/>
+<path class="pi3" d="M509.8,206.4l-58.6-1.8l-16.8-59.2c0,0,8-1.8,18.7-2.1h0.1c14.1,0.4,31.1,4.1,41.1,17.4
+	C512.6,185.1,510.2,204.4,509.8,206.4"/>
+			
+				</g>
+	
+		<g class="pi_small">
+<path class="pi4" d="M455.8,209.5l56,0.6c0,0,3.6,19.1-10.4,36.2L455.8,209.5z"/>
+<polygon class="pi5" points="455.8,209.5 448.3,209.5 492.3,248.6 501.4,246.4 "/>
+			
+				</g>
+			
+
+	
+
+<style type="text/css">
+	.lp0{fill:#E9D7BA}.lp1{fill:#1A2033}.lp2{fill:#A7CFD8}.lp3{fill:#C8D6E4}.lp4{fill:#174060}.lp5{fill:none;stroke:#1C3E58;stroke-width:.408;stroke-miterlimit:10}.lp6{fill:#B9C3E3}.lp7{fill:#74C5C6}.lp8{fill:#1E4365}.lp9{fill:#E3E7EB}.lp10{fill:#9599A7}.lp_arm,.lp_head{animation:lp_head 5s ease-in-out infinite;transform-origin:400px 216px}@keyframes lp_head{0%,100%{transform:rotateZ(-4deg)}20%,80%{transform:rotateZ(4deg)}}.lp_arm{animation:lp_arm 5s ease-in-out infinite;transform-origin:410px 245px}@keyframes lp_arm{0%,100%{transform:rotateZ(-2deg)}10%,80%{transform:rotateZ(2deg)}}.lp_foot{animation:lp_foot 5s ease-in-out infinite;transform-origin:408px 300px;animation-delay:0s}@keyframes lp_foot{0%,100%,40%,80%{transform:rotateZ(0)}60%{transform:rotateZ(4deg)}}.lp_man{transform:translateY(300px);animation-fill-mode:forwards;animation-iteration-count:1;animation-name:lp_man;animation-duration:1.75s;animation-delay:1s}@keyframes lp_man{0%{opacity:0;transform:translateY(-300px)}20%{transform:translateY(-300px);opacity:0}40%{opacity:1;transform:translateY(20px)}60%{transform:translateY(-6px)}100%,90%{transform:translateY(0)}}
+	
+	
+	
+</style>
+	
+	
+	
+	<g class="lp_man">
+	
+<polygon class="lp0 " points="405.6,276.9 401.7,272.9 405.3,270.3 407.6,271.8 409.5,273.4 "/>
+	
+	
+	
+	
+	
+<polygon class="lp1" points="407.7,270.6 384.6,266.3 374.7,262.1 376.2,256.7 406.1,256.2 "/>
+	
+	
+	<path class="lp8" d="M394.5,264.8c0,0-22.1-10.1-23.9-9.9s-4.9-0.4-6.2,2.2c-1.3,2.5-0.1,12.1,23.1,14.1l5.3-3.6L394.5,264.8z"/>
+	<g class="lp_foot">
+		<polygon class="lp0" points="394.9,272 398.4,268 393.5,264.9 390.6,268.6 "/>
+<path class="lp2" d="M394.2,276.5c0,0,0.8,1.5,0.1,2.1c-0.7,0.6-7.5,3.8-18.6-2.2l0.8-1.2L394.2,276.5z"/>
+<path class="lp7" d="M390.6,268.6c0,0-5.2,4.7-8.9,4.7c-3.6,0-5.2-0.5-5.2,1.8c0,0,10.9,5.7,17.6,1.3l2.3-5.1L390.6,268.6z"/>	
+	</g>
+	
+	
+<path class="lp3" d="M403.9,213.1c0,0,14,2.2,13.8,15c-0.1,12.9-8.3,24.9-8.3,24.9l-21,1.7l-1.8-27.9
+	C386.6,226.8,384.9,214,403.9,213.1"/>
+	
+	
+	
+	
+<g class="lp_head">
+<path class="lp0" d="M392.7,207.9c0,0,0.8,3.2,1.1,7c0.2,3.9,3.5,7.2,7.4,3.8c0,0,2.7-1.3,2.7-5.6c0,0,1-0.6,0.6-2.5
+	c-0.4-1.9-1.5-1.3-1.5-1.3s-0.1-6.7-5.5-5.6C392.2,204.7,392.7,207.9,392.7,207.9"/>
+			
+<path class="lp4" d="M397.8,204.9c0,0-0.2,3-3.8,3.2c0,0-0.3,1.5-1.9,1c0,0-2.1,0.4-1.7-1.9c0.4-2.4,4.3-3.6,4.3-3.6
+	s0.8-1.6,2.2-1.5c1.4,0.2,2.2,1,2.2,1s3.3-2.4,4.7,2.2s0,4.2,0,4.2L403,209c0,0-1.7,0.2-1.9-1.5
+	C400.9,205.8,397.8,204.9,397.8,204.9"/>
+	
+<path class="lp4" d="M403.9,213.1c0,0,1,8-5,8.4s-4.9-5.1-4.9-5.1s0.4-2.3,4.4-1.6c4,0.7,5.1-1.5,5.1-1.5L403.9,213.1z"/>
+	
+</g>		
+	
+	
+<path class="lp5" d="M395.8,216.5c0,0,0-0.7,1.6-0.8c1.6-0.1,1.9,0.8,1.9,0.8s0,1-2,1C395.2,217.5,395.8,216.5,395.8,216.5z"/>
+<path class="lp6" d="M409.9,223.8c0,0,0.6-5.5,5.3-5.3c4.7,0.1,10.4,21.5-5.6,31.2l-4.4-2.9c0,0,4.5-5.7,4.6-13.2
+	C410,226,409.9,223.8,409.9,223.8"/>
+	
+	
+<path class="lp6" d="M387.2,222c0,0-3.6,1-3.2,20.9l4.4,0.5L387.2,222z"/>
+	
+
+<path class="lp1" d="M425.7,251.5c0,0-4.8,14.1-16.7,21.8l-3.7-3L425.7,251.5z"/>
+<path class="lp2" d="M405.6,276.9c0,0,11,4.4,15.5,2.4c4.5-1.9,5.2-7.6,1.6-7c-3.6,0.6-14.2,0.2-14.2,0.2S401.9,272,405.6,276.9"/>
+<polygon class="lp0 lp_arm" points="405.3,246.7 399.9,251.7 390.2,251.3 390.1,255.9 402.2,256.7 411.1,250 "/>
+<polygon class="lp9" points="369.4,240.2 390.9,240.2 393.9,255.5 372.6,255.7 "/>
+<rect x="375.8" y="255.9" class="lp10" width="24.1" height="2.6"/>
+<path class="lp8" d="M393.5,264.9l23.1-22.2c0,0,5.6-5.8,9.7-1.9c4.2,4,2.6,7.6-0.6,10.7c-2.6,2.5-24.8,23.9-24.8,23.9s-4.9-1-5-5.8
+	C395.7,264.8,393.5,264.9,393.5,264.9"/>
+		
+		</g>
+
+	
+	
+
+<style type="text/css">
+	.wh0{fill:#4875B9}.wh1{fill:#FFF;-webkit-animation:rotation 35s infinite linear;transform-origin:380.4px 178.8px}@-webkit-keyframes rotation{from{-webkit-transform:rotate(0)}to{-webkit-transform:rotate(359deg)}}.wheel{transform:translateY(300px);animation-fill-mode:forwards;animation-iteration-count:1;animation-name:wheel;animation-duration:2s;animation-delay:1.5s}@keyframes wheel{0%{opacity:0;transform:translateY(-300px)}20%{transform:translateY(-300px);opacity:0}40%{opacity:1;transform:translateY(20px)}60%{transform:translateY(-6px)}100%,90%{transform:translateY(0)}}
+	
+</style>
+		
+		<g class="wheel">
+<path class="wh0" d="M401.6,166v28.7c0,1-0.8,1.8-1.8,1.8h-26.3v7l-6.5-7h-3.4c-1.2,0-2.2-1-2.2-2.2v-28c0-1.1,0.9-2,2-2h36.5
+	C400.8,164.2,401.6,165,401.6,166"/>
+	
+	
+<path class="wh1" d="M383.1,179c0.1-1.5-1.1-2.7-2.6-2.7c-1.5,0-2.6,1.1-2.7,2.5c-0.1,1.5,1,2.8,2.5,2.8
+	C381.8,181.7,383,180.6,383.1,179 M390.9,178.9c0,0.5,0,0.8-0.1,1.2c0,0.4-0.3,0.6-0.7,0.6c-0.4,0-0.8,0.1-1.2,0.1
+	c-0.3,0-0.6,0.2-0.7,0.5c-0.2,0.4-0.3,0.9-0.5,1.3c-0.1,0.3,0,0.6,0.2,0.8c0.3,0.3,0.6,0.6,0.8,0.9c0.3,0.3,0.3,0.7,0,1
+	c-0.6,0.6-1.1,1.1-1.6,1.7c-0.3,0.3-0.6,0.3-1,0.1c-0.3-0.3-0.6-0.5-0.9-0.8c-0.3-0.2-0.6-0.3-0.9-0.1c-0.4,0.2-0.8,0.3-1.2,0.5
+	c-0.3,0.1-0.5,0.4-0.5,0.8c0,0.4,0,0.9-0.1,1.3c0,0.3-0.2,0.5-0.5,0.6c-0.6,0.1-1.3,0.2-1.9,0.1c-0.2,0-0.5,0-0.7-0.1
+	c-0.4,0-0.6-0.3-0.6-0.6c0-0.4-0.1-0.8-0.1-1.2c0-0.4-0.2-0.6-0.5-0.7c-0.4-0.2-0.8-0.3-1.2-0.5c-0.3-0.1-0.6-0.1-0.9,0.2
+	c-0.3,0.3-0.6,0.6-0.9,0.8c-0.3,0.3-0.6,0.3-0.9,0c-0.6-0.6-1.2-1.2-1.8-1.8c-0.2-0.2-0.2-0.6,0-0.8c0.3-0.3,0.5-0.6,0.8-0.9
+	c0.3-0.3,0.3-0.6,0.1-1c-0.2-0.4-0.3-0.8-0.5-1.1c-0.2-0.4-0.4-0.5-0.8-0.6c-0.4,0-0.8,0-1.2,0c-0.3,0-0.6-0.2-0.6-0.5
+	c-0.1-0.7-0.2-1.3-0.1-2c0-0.2,0-0.4,0.1-0.7c0-0.3,0.3-0.6,0.6-0.6c0.4,0,0.8-0.1,1.3-0.1c0.3,0,0.6-0.2,0.7-0.5
+	c0.2-0.4,0.3-0.8,0.5-1.3c0.1-0.3,0.1-0.6-0.2-0.8c-0.3-0.3-0.6-0.6-0.8-0.9c-0.3-0.3-0.3-0.7,0-1c0.6-0.6,1.1-1.2,1.7-1.8
+	c0.3-0.3,0.6-0.3,0.9,0c0.3,0.3,0.6,0.5,0.9,0.8c0.3,0.3,0.6,0.3,1,0.2c0.4-0.2,0.7-0.3,1.1-0.5c0.4-0.2,0.5-0.4,0.6-0.8
+	c0-0.4,0-0.8,0-1.2c0-0.3,0.2-0.6,0.5-0.6c0.9-0.1,1.7-0.1,2.6-0.1c0.4,0,0.6,0.3,0.6,0.7c0,0.4,0.1,0.8,0.1,1.2
+	c0,0.3,0.2,0.6,0.5,0.7c0.4,0.2,0.9,0.3,1.3,0.5c0.3,0.1,0.6,0,0.9-0.2c0.3-0.3,0.6-0.5,0.9-0.8c0.3-0.3,0.7-0.3,1,0
+	c0.6,0.6,1.2,1.1,1.7,1.7c0.3,0.3,0.3,0.6,0.1,0.9c-0.3,0.3-0.5,0.6-0.8,0.9c-0.2,0.3-0.3,0.6-0.1,0.9c0.2,0.4,0.3,0.8,0.5,1.2
+	c0.1,0.3,0.4,0.5,0.8,0.5c0.4,0,0.8,0,1.2,0c0.4,0,0.7,0.2,0.7,0.6C390.8,178,390.8,178.5,390.9,178.9"/>
+	
+	</g>
+	
+
+	
+<style type="text/css">
+	.lpg0{fill:#F2DDBA}.lpg1{fill:#D8DDDF}.lpg2{fill:#2E2C23}.lpg3{fill:#EBDCBE}.lpg4{fill:#1B3E5B}.lpg5{fill:#DEE2F0}.lpg6{fill:#3866AE}.lpg7{fill:#2A3439}.lpg8{fill:#4672B6}.lpg9{fill:#C8C0AC}.lpg10{fill:#B9C2E4}.gl_leg{animation:gl_leg 6s ease-in-out infinite;transform-origin:480px 135px}@keyframes gl_leg{0%,100%{transform:rotateZ(-5deg)}20%,80%{transform:rotateZ(4deg)}}.lp_girl{transform:translateY(300px);animation-fill-mode:forwards;animation-iteration-count:1;animation-name:lp_girl;animation-duration:2s;animation-delay:1s}@keyframes lp_girl{0%{opacity:0;transform:translateY(300px)}20%{transform:translateY(300px);opacity:0}40%{opacity:1;transform:translateY(-20px)}60%{transform:translateY(6px)}100%,90%{transform:translateY(0)}}
+	
+</style>
+		
+		
+		<g class="lp_girl">
+		
+<polygon class="lpg0" points="463.1,127.7 478.4,127.9 477.3,130.3 462.8,130.5 "/>
+<polygon class="lpg1" points="475.2,130.8 481,121.2 493.3,121.2 486.7,132.3 "/>
+<path class="lpg2" d="M461.2,98.6c0,0-0.5,3.2-0.2,3.7c0,0,1.3-0.2,2.1,0.8c0.8,1.1-0.3,3.7-0.3,3.7s8.9,4.8,0.8,13.5l-1.8-1
+	l-5.7-18.4l0.1-1.8L461.2,98.6z"/>
+<path class="lpg3" d="M464.9,89.6l0.5,5.9l-1.1,0.2c0,0-0.4,2.8-1.4,3.4c-0.9,0.6-6,0-6,0l0.2,8.7l-4.5-0.7l-1.7-8.4l6.7-8.8
+	L464.9,89.6z"/>
+<path class="lpg2" d="M465.5,90.4c0,0-1.5-0.8-1.9,0.7c-0.5,1.6-3.3,4-6.9,2.7c0,0,1.1,2.4-1.2,2.8c-2.3,0.4-3.7,3.7-3.7,3.7
+	l-10.2,12.3c0,0-2.9-5.2-1.3-9.1c1.6-3.9,4.9-3.4,4.9-3.4s-2.8-6.7,1.7-9.1c4.5-2.4,7.4-0.2,7.4-0.2s1.1-5.2,5-5.2
+	C463.1,85.6,466,89.2,465.5,90.4"/>
+<polygon class="lpg4" points="452.1,106.1 459.9,106.9 458.2,131.8 449.3,132.8 "/>
+<path class="lpg5" d="M457.1,102.3c0,0,0.7,19.9-2.2,28.5l8.5,0.8C463.4,131.7,464.6,101.9,457.1,102.3"/>
+<path class="lpg6" d="M452.4,131.5c0,0,33.5-1.3,34,0.2c0.5,1.5,13.4,31.2,13.4,31.2l-7,0.3l-11.3-22.8L452.4,131.5z"/>
+<path class="lpg5" d="M444,102.6l7.8-2.3c0,0,3.7,13.9-1,35.1l-10.5-1.8L444,102.6z"/>
+<path class="lpg7" d="M495.5,168.9l0.2,3.2h1.2v-1.5c0,0,9.1,1.9,7.9-1.8H495.5z"/>
+
+<path class="lpg8" d="M440.2,133.6c0,0,0.3,9.5,7.4,9.9c7.1,0.3,28.1-1.6,28.1-1.6l3.7,0.3l3.4,1.1c0,0,0.5-9.9-1.4-10.5
+	c-1.9-0.6-32.2-2.4-32.2-2.4L440.2,133.6z"/>
+	
+	
+	
+	
+	
+
+<path class="lpg9" d="M494.8,163.1l0.8,6.1c0,0,9.2,1.9,9.4,0c0.2-1.9-6.6-2.3-6.6-2.3l-0.6-4L494.8,163.1z"/>
+<g>
+	<path class="lpg0" d="M450.9,124.9l12-0.3c0,0,0.7-1.1,1.9-1.2c1.2-0.1,2.9-0.5,2.9-0.5s0.1,0.9-1.6,1.3c0,0,0.9,0.5,1.9,0.4
+		c1.1-0.2,1.7-0.6,1.8,0.2c0.1,0.8-3.9,2.4-6.5,1.9l-13.5,0.2L450.9,124.9z"/>
+	<path class="lpg10" d="M444,102.6c0,0,3.9-1.8,3.6,3.9c-0.3,5.7-0.8,17.6-0.8,17.6l4.4-0.3l-0.2,6.3l-9.5-1.3
+		C441.4,128.8,439.9,106.9,444,102.6"/>
+</g>
+	
+	<g class="gl_leg">
+	<path class="lpg7" d="M477.6,168.1v4.4h1v-1.2c0,0,5.8,4.7,6.8,2.8c1.4-2.8-5.5-5.1-4.9-6.3L477.6,168.1z"/>
+	<path class="lpg9" d="M477.6,163.5v5.2c0,0,5.2,5.7,7.4,4.7c2.3-1-4.4-5-4.4-5v-5.7L477.6,163.5z"/>
+	<path class="lpg8" d="M475.2,136.1l1.1,28.3h6.8c0,0,0.2-29.9-1.8-30.6C479.5,133.2,475.2,136.1,475.2,136.1"/>
+	</g>
+			
+			
+			</g>
+	
+
+	
+	
+	<style type="text/css">
+	.cart,.cart_ani{animation-fill-mode:forwards}.ct0{fill:#74C5C7}.ct1{fill:#1D1D1B}.ct2{fill:#FDFDFF}.cart_ani{animation-duration:6.4s;animation-name:cart_ani;animation-iteration-count:infinite;animation-direction:alternate;animation-timing-function:linear;transform:translateY(0)}@keyframes cart_ani{0%{transform:translateY(0)}100%,30%{transform:translateY(10px)}}.cart{transform:translateY(300px);animation-iteration-count:1;animation-name:cart;animation-duration:2s;animation-delay:1s}@keyframes cart{0%{opacity:0;transform:translateY(300px)}20%{transform:translateY(300px);opacity:0}40%{opacity:1;transform:translateY(-20px)}60%{transform:translateY(6px)}100%,90%{transform:translateY(0)}}
+	
+	
+</style>
+	
+	<g class="cart">
+	<g class="cart_ani">
+<path class="ct0" d="M197.7,207.9c0,8-6.5,14.4-14.4,14.4s-14.4-6.5-14.4-14.4c0-8,6.5-14.4,14.4-14.4c2.3,0,4.5,0.5,6.5,1.6
+	l3.4-3.1v5.5C195.9,200,197.7,203.7,197.7,207.9"/>
+<path class="ct1" d="M179.9,216.1C179.9,216.1,179.9,216.1,179.9,216.1"/>
+<line class="ct1" x1="188.8" y1="216.1" x2="188.8" y2="216.1"/>
+<path class="ct2" d="M179.7,212.9c1.2-0.1,1.6,0.9,1.4,1.5c-0.1,0.6-0.7,1-1.2,1c-0.6,0-1.1-0.5-1.2-1
+	C178.6,213.8,178.8,213.1,179.7,212.9"/>
+<path class="ct2" d="M188.5,212.8c0.2,0,0.3,0,0.6,0c0.2,0.1,0.4,0.2,0.6,0.4c0.1,0.1,0.2,0.2,0.2,0.4c0.1,0.3,0.1,0.7,0,1
+	c-0.2,0.4-0.6,0.7-1,0.7c-0.4,0-0.9-0.1-1.1-0.5c-0.3-0.3-0.3-0.8-0.2-1.2C187.7,213.2,188.1,212.9,188.5,212.8"/>
+<path class="ct2" d="M180.2,212.8c-0.1,0-0.7,0-0.8,0c-0.4,0-0.9-0.4-0.6-0.9c0.1-0.3,0.3-0.6,0.4-0.9c0.1-0.1,0.1-0.3,0.1-0.4
+	c-0.2-0.9-0.4-1.8-0.6-2.8c-0.4-1.7-0.7-3.3-1.1-5c0-0.1-0.1-0.2-0.2-0.2c-0.5,0-1.1,0-1.6,0c-0.4,0-0.7-0.1-0.8-0.5v-0.3
+	c0.1-0.3,0.3-0.5,0.7-0.5c0.8,0,1.6,0,2.4,0c0.4,0,0.6,0.2,0.6,0.5c0.1,0.2,0.1,0.4,0.1,0.6c0,0.2,0.1,0.2,0.2,0.2
+	c3.2,0,6.5,0,9.7,0c0.6,0,1.2,0,1.9,0c0.3,0,0.5,0.1,0.7,0.5c0,0,0,0,0,0.1v5.3c-0.1,0.3-0.3,0.5-0.6,0.5c-1,0.1-2.1,0.2-3.1,0.4
+	c-0.9,0.1-1.9,0.2-2.8,0.3c-1.1,0.1-2.1,0.2-3.2,0.4c-0.4,0-0.7,0.1-1.2,0.1c0.2,0.5,0.2,0.9-0.1,1.3h0.3c2.9,0,5.8,0,8.7,0
+	c0.1,0,0.2,0,0.3,0c0.3,0.1,0.5,0.4,0.4,0.7c0,0.3-0.3,0.5-0.6,0.5c-0.1,0-0.2,0-0.4,0"/>
+	</g>
+	
+	</g>
+	
+	
+	
+	
+	
+	<style type="text/css">
+	.doc,.doc_ani{animation-fill-mode:forwards}.doc0{fill:#F0F0F1}.doc1{fill:#42A5DD}.doc_ani{animation-duration:4s;animation-name:doc_ani;animation-iteration-count:infinite;animation-direction:alternate;animation-timing-function:linear;transform:translateY(0)}@keyframes doc_ani{0%{transform:translateY(0)}100%,30%{transform:translateY(10px)}}.doc{transform:translateY(300px);animation-iteration-count:1;animation-name:doc;animation-duration:2s;animation-delay:1s}@keyframes doc{0%{opacity:0;transform:translateY(-300px)}20%{transform:translateY(-300px);opacity:0}40%{opacity:1;transform:translateY(20px)}60%{transform:translateY(-6px)}100%,90%{transform:translateY(0)}}
+		
+	
+</style>
+	<g class="doc">
+	<g class="doc_ani">
+<path class="doc0" d="M463.2,22.4h-20.9c-2.1,0-3.8,1.7-3.8,3.8v42.5c0,2.1,1.7,3.8,3.8,3.8h27.4c2.1,0,3.8-1.7,3.8-3.8V35.1
+	C470.3,30.7,467,26.3,463.2,22.4"/>
+<polygon class="doc1" points="463.1,22.4 463.1,34.9 473.5,34.9 "/>
+<rect x="444" y="45.5" class="doc1" width="17.8" height="3.4"/>
+<rect x="444" y="52.2" class="doc1" width="23.2" height="3.6"/>
+<rect x="444" y="59.1" class="doc1" width="23.2" height="3.6"/>
+		</g>
+	
+	</g>
+	
+	
+	
+	<style type="text/css">
+	.txt,.txt_ani{animation-fill-mode:forwards}.st0{fill:#B2DEEB}.st1{fill:#42A5DD}.txt_ani{animation-duration:6s;animation-name:txt_ani;animation-iteration-count:infinite;animation-direction:alternate;animation-timing-function:linear}@keyframes txt_ani{0%{transform:translateY(0)}100%,30%{transform:translateY(10px)}}.txt{transform:translateY(300px);animation-iteration-count:1;animation-name:txt;animation-duration:2s;animation-delay:1s}@keyframes txt{0%{opacity:0;transform:translateY(-300px)}20%{transform:translateY(-300px);opacity:0}40%{opacity:1;transform:translateY(20px)}60%{transform:translateY(-6px)}100%,90%{transform:translateY(0)}}
+		
+</style>
+	<g class="txt">
+	<g class="txt_ani">
+<path class="st0" d="M485.7,69.1v17.8c0,3,2.5,5.5,5.5,5.5h0.5v8.3l6.8-8.3h15.6c3,0,5.5-2.5,5.5-5.5V69.1c0-3-2.4-5.5-5.5-5.5
+	h-22.9C488.2,63.6,485.7,66.1,485.7,69.1"/>
+<rect x="496.1" y="69.8" class="st1" width="17.8" height="3.4"/>
+<rect x="490.7" y="76.6" class="st1" width="23.2" height="3.6"/>
+<rect x="490.7" y="83.5" class="st1" width="23.2" height="3.6"/>
+		
+		</g>
+	</g>
+	
+	
+	
+
+	
+<style type="text/css">
+	.star,.star_ani{animation-fill-mode:forwards}.star0{fill:#30ADC9}.star1{fill:#199EB9}.star2{fill:#FFF}.star_ani{animation-duration:9s;animation-name:star_ani;animation-iteration-count:infinite;animation-timing-function:linear;transform:translateY(0)}@keyframes star_ani{0%,100%,15%,35%{transform:translateY(0)}25%{transform:translateY(-5px)}}.star{transform:translateY(300px);animation-iteration-count:1;animation-name:star;animation-duration:2s;animation-delay:1s}@keyframes star{0%{opacity:0;transform:translateY(-300px)}20%{transform:translateY(-300px);opacity:0}40%{opacity:1;transform:translateY(20px)}60%{transform:translateY(-6px)}100%,90%{transform:translateY(0)}}
+</style>
+		<g class="star">
+	<g class="star_ani">
+<polygon class="star0" points="520,153.7 533.3,155.5 528.3,170.7 524.3,163.1 516.1,166.7 "/>
+<polygon class="star0" points="531.2,156.6 536.6,171.4 541.6,163.5 549.2,167.1 543.4,152.7 "/>
+<path class="star0" d="M554,139.8c-1.2-1.7-0.9-4.1,0.8-5.3c0.5-0.4,1.1-0.6,1.7-0.7c0,0,0,0,0-0.1c-0.9,0.1-1.8-0.1-2.5-0.7
+	c-1.7-1.2-2.1-3.6-0.8-5.3c0.4-0.5,0.9-0.9,1.4-1.2c0,0,0,0,0,0c-0.8,0.3-1.7,0.4-2.6,0.1c-2-0.6-3.1-2.8-2.4-4.8
+	c0.2-0.6,0.6-1.2,1-1.6c0,0,0,0,0,0c-0.7,0.6-1.5,1-2.5,1c-2.1,0-3.8-1.7-3.8-3.8c0-0.7,0.2-1.3,0.5-1.9c0,0,0,0,0,0
+	c-0.5,0.8-1.2,1.5-2.1,1.8c-2,0.6-4.1-0.4-4.8-2.4c-0.2-0.7-0.2-1.4-0.1-2c0,0,0,0,0,0c-0.2,0.9-0.7,1.8-1.5,2.4
+	c-1.7,1.2-4.1,0.9-5.3-0.8c-0.4-0.6-0.7-1.3-0.7-2c0,0,0,0,0,0c0.1,1-0.1,2-0.7,2.8c-1.2,1.7-3.6,2.1-5.3,0.8c-0.6-0.4-1-1-1.3-1.7
+	c0,0,0,0,0,0c0.4,0.9,0.6,1.9,0.2,2.9c-0.6,2-2.8,3.1-4.8,2.4c-0.7-0.2-1.3-0.7-1.8-1.2c0,0,0,0,0,0c0.7,0.7,1.1,1.6,1.1,2.7
+	c0,2.1-1.7,3.8-3.8,3.8c-0.8,0-1.5-0.2-2.1-0.6c0,0,0,0,0,0c0.9,0.4,1.6,1.2,1.9,2.2c0.6,2-0.4,4.1-2.4,4.8
+	c-0.7,0.2-1.5,0.2-2.1,0.1c0,0,0,0,0,0c1,0.1,1.9,0.7,2.5,1.5c1.2,1.7,0.9,4.1-0.8,5.3c-0.6,0.4-1.3,0.7-2,0.7c0,0,0,0,0,0
+	c1-0.1,2,0.1,2.8,0.7c1.7,1.2,2.1,3.6,0.8,5.3c-0.4,0.6-1,1-1.6,1.3c0,0,0,0,0,0c0.9-0.4,1.9-0.5,2.8-0.2c2,0.6,3.1,2.8,2.4,4.8
+	c-0.2,0.7-0.6,1.2-1.1,1.7c0,0,0,0,0,0c0.7-0.6,1.6-1,2.6-1c2.1,0,3.8,1.7,3.8,3.8c0,0.7-0.2,1.3-0.5,1.9c0,0,0,0,0,0
+	c0.5-0.8,1.2-1.4,2.1-1.7c2-0.6,4.1,0.4,4.8,2.4c0.2,0.6,0.2,1.3,0.1,1.9c0,0,0,0,0,0c0.2-0.9,0.7-1.7,1.5-2.2
+	c1.7-1.2,4.1-0.9,5.3,0.8c0.4,0.5,0.6,1.1,0.7,1.7c0,0,0,0,0,0c-0.1-0.9,0.1-1.8,0.7-2.5c1.2-1.7,3.6-2.1,5.3-0.8
+	c0.5,0.4,0.9,0.8,1.1,1.4c0,0,0,0,0,0c-0.3-0.8-0.4-1.7-0.1-2.6c0.6-2,2.8-3.1,4.8-2.4c0.6,0.2,1.1,0.5,1.5,0.9c0,0,0,0,0,0
+	c-0.5-0.7-0.9-1.5-0.9-2.4c0-2.1,1.7-3.8,3.8-3.8c0.6,0,1.2,0.2,1.7,0.4c0,0,0,0,0,0c-0.7-0.5-1.3-1.1-1.6-2c-0.6-2,0.4-4.1,2.4-4.8
+	c0.6-0.2,1.2-0.2,1.8-0.1c0,0,0,0,0-0.1C555.3,141,554.5,140.5,554,139.8"/>
+<path class="star1" d="M549,136.3c0,9-7.3,16.4-16.4,16.4c-9,0-16.4-7.3-16.4-16.4c0-9,7.3-16.4,16.4-16.4
+	C541.7,119.9,549,127.2,549,136.3"/>
+<polygon class="star2" points="532.7,128.3 535,133.6 540.2,134.4 536.4,138.5 537.3,144.2 532.7,141.5 528,144.2 528.9,138.5 
+	525.1,134.4 530.3,133.6 "/>
+	</g>
+	</g>
+
+
+	
+	
+</svg>
+	
+

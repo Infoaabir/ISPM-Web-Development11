@@ -1,0 +1,56 @@
+/**SLTnet web development team / "mr.apple"*/
+A.link {
+	COLOR: #000000; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 12px; 
+	FONT-WEIGHT: normal; 
+	LINE-HEIGHT: normal; 
+	TEXT-DECORATION: none
+}
+A.link:hover {
+	COLOR: #525AA6; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 12px; 
+	FONT-WEIGHT: normal; 
+	LINE-HEIGHT: normal; 
+	TEXT-DECORATION: none
+}
+.text {
+	COLOR: #000000; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 11px; 
+	FONT-WEIGHT: normal; 
+	LINE-HEIGHT: normal; 
+	TEXT-DECORATION: none
+}
+.sub_text {
+	COLOR: #999999; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 11px; 
+	FONT-WEIGHT: normal; 
+	LINE-HEIGHT: normal; 
+	TEXT-DECORATION: none
+}
+.sub_text2 {
+	COLOR: #666666; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 11px; 
+	FONT-WEIGHT: normal; 
+	LINE-HEIGHT: normal; 
+	TEXT-DECORATION: none
+}
+.topic {
+	COLOR: #000000; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 12px; 
+	FONT-WEIGHT: bold; 
+	LINE-HEIGHT: normal; 
+	TEXT-DECORATION: none
+}.topic_home {
+	COLOR: #657058; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	FONT-SIZE: 12px; 
+	FONT-WEIGHT: bold; 
+	LINE-HEIGHT: normal; 
+	TEXT-DECORATION: none
+}

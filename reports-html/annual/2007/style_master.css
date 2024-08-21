@@ -1,0 +1,218 @@
+@charset "utf-8";
+a.mainnavi {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-align:left;
+	color: #90492C;
+	text-decoration: none;
+}
+
+a.mainnavi:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-align:left;
+	color: #BA513F;
+	text-decoration: none;
+}
+a.sidenavi {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-align:left;
+	color: #90492C;
+	text-decoration: none;
+}
+
+a.sidenavi:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-align:left;
+	color: #BA513F;
+	text-decoration: none;
+}
+a.botnavi {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-align:left;
+	color: #90492C;
+	text-decoration: none;
+}
+
+a.botnavi:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-align:left;
+	color: #BA513F;
+	text-decoration: none;
+}
+.navi_bullet {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	text-align:left;
+	color: #00ADEF;
+	text-decoration: none;
+}
+.sidenavi_bullet {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-align:left;
+	color: #00ADEF;
+	text-decoration: none;
+}
+
+.hlight {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 28px;
+	color: #663300;
+}
+.hlight2 {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 22px;
+	color: #663300;
+}
+.h1 {
+
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 18px;
+	color: #333333;
+}
+.h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+}
+.h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+}
+.h4 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+}
+.btxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color:#666666
+}
+.captn {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #90492C;
+}
+
+.bg_light_thik {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-image: url(images/tr_bg_light_normal.gif);
+	color: #666666;
+	height: 20px;	
+}
+.bg_light_strong {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-image: url(images/tr_bg_light_strong.gif);
+	color: #666666;	
+	height: 20px;
+}
+
+a.btxt_link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color:#90492C;
+}
+
+a.btxt_link:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 17px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color:#666666;
+	text-decoration: underline;
+}
